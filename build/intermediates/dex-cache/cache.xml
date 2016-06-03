@@ -2,81 +2,95 @@
 <items version="2" >
 
     <item
-        jar="/Users/oscarfuentes/Documents/Linux_trabajo/Android/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/classes.jar"
+        jar="/Users/oscarfuentes/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.0.1/b34c1f2d993044656e87f88970b6818e99e886ba/okhttp-3.0.1.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="7f9cca1caa023a880b00c382bcc5c90245ae4895">
-        <dex dex="/Users/oscarfuentes/Documents/Linux_trabajo/Android/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-87411cea7821534f8a3935a1477db4d5b894096e.jar" />
+        sha1="b34c1f2d993044656e87f88970b6818e99e886ba">
+        <dex dex="/Users/oscarfuentes/Documents/Linux_trabajo/Android/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okhttp-3.0.1_3d1556cf5c359c6a6c9c32c1aa6c832f9677817d.jar" />
     </item>
     <item
-        jar="/Users/oscarfuentes/Documents/Linux_trabajo/Android/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/22.0.0/classes.jar"
+        jar="/Users/oscarfuentes/Documents/Linux_trabajo/Android/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="285506e1cf9d5a66878e2aab3884b3427f8734e9">
-        <dex dex="/Users/oscarfuentes/Documents/Linux_trabajo/Android/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-40a23f06791dc04a8c7645e1f29566830c660b25.jar" />
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/oscarfuentes/Documents/Linux_trabajo/Android/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_fabbc2349e4aa8ed70a5abeddb21c2b7ab0afa5b.jar" />
+    </item>
+    <item
+        jar="/Users/oscarfuentes/Downloads/adt-bundle-mac-x86_64-20140321/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/oscarfuentes/Documents/Linux_trabajo/Android/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_69d372fef3993c89be130fd7622706eb7bc777e9.jar" />
+    </item>
+    <item
+        jar="/Users/oscarfuentes/Documents/Linux_trabajo/Android/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/oscarfuentes/Documents/Linux_trabajo/Android/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.1_326ea10125cdba5f4296bf8d3c0c474b0e0882cb.jar" />
+    </item>
+    <item
+        jar="/Users/oscarfuentes/Documents/Linux_trabajo/Android/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/oscarfuentes/Documents/Linux_trabajo/Android/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_c9a2cb0046f5e00954474b9abdc97f1112948764.jar" />
+    </item>
+    <item
+        jar="/Users/oscarfuentes/Documents/Linux_trabajo/Android/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5ddf5f4817565c9db82613c16093f76640a54e15">
+        <dex dex="/Users/oscarfuentes/Documents/Linux_trabajo/Android/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-v13-23.1.1_98bf484c1d7032dae23bac0a35373d4f9b9a19ee.jar" />
+    </item>
+    <item
+        jar="/Users/oscarfuentes/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/oscarfuentes/Documents/Linux_trabajo/Android/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okio-1.6.0_f79153f484ed136e921874c21da676229bc129c4.jar" />
+    </item>
+    <item
+        jar="/Users/oscarfuentes/Documents/Linux_trabajo/Android/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a978650837318cf056bf3383ff02fe7a3b891f20">
+        <dex dex="/Users/oscarfuentes/Documents/Linux_trabajo/Android/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-23.1.1_700de0a2bb82020ebad7f9573165a98ac2388a3a.jar" />
+    </item>
+    <item
+        jar="/Users/oscarfuentes/Documents/Linux_trabajo/Android/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="/Users/oscarfuentes/Documents/Linux_trabajo/Android/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.1.1_6d3befb389c150250bf4095b7686df217d282cd6.jar" />
+    </item>
+    <item
+        jar="/Users/oscarfuentes/Documents/Linux_trabajo/Android/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/oscarfuentes/Documents/Linux_trabajo/Android/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.1_236eb702e5f845b003bb6205dd9969ccc2cf0418.jar" />
+    </item>
+    <item
+        jar="/Users/oscarfuentes/Documents/Linux_trabajo/Android/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/oscarfuentes/Documents/Linux_trabajo/Android/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_456e7a4bce876d53a2a709cd6b07a1bbed50f478.jar" />
     </item>
     <item
         jar="/Users/oscarfuentes/Documents/Linux_trabajo/Android/xyzreader/XYZReader/libs/volley.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
-        <dex dex="/Users/oscarfuentes/Documents/Linux_trabajo/Android/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/volley-3c04087df8e65492e36b6356a8c755215693421b.jar" />
+        <dex dex="/Users/oscarfuentes/Documents/Linux_trabajo/Android/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/volley_3c04087df8e65492e36b6356a8c755215693421b.jar" />
     </item>
     <item
-        jar="/Users/oscarfuentes/Documents/Linux_trabajo/Android/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jar="/Users/oscarfuentes/Documents/Linux_trabajo/Android/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.1/jars/libs/internal_impl-23.1.1.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
-        <dex dex="/Users/oscarfuentes/Documents/Linux_trabajo/Android/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-4aa27cb0d7e58016e7f2f235b75752b65fdfefdc.jar" />
-    </item>
-    <item
-        jar="/Users/oscarfuentes/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/1.1.0/d51280dbb4e8539f6c3f369d516edc26f9d89d31/okhttp-1.1.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="d51280dbb4e8539f6c3f369d516edc26f9d89d31">
-        <dex dex="/Users/oscarfuentes/Documents/Linux_trabajo/Android/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okhttp-1.1.0-1a479ba9842fbdf53f1675a4068ba97995492649.jar" />
-    </item>
-    <item
-        jar="/Users/oscarfuentes/Downloads/adt-bundle-mac-x86_64-20140321/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
-        <dex dex="/Users/oscarfuentes/Documents/Linux_trabajo/Android/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-03daea1e7195114c8f03a7dce4530125b9016c04.jar" />
-    </item>
-    <item
-        jar="/Users/oscarfuentes/Documents/Linux_trabajo/Android/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
-        <dex dex="/Users/oscarfuentes/Documents/Linux_trabajo/Android/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-cf54882a7cd2ba504bbdab9dd1183e3d23a787ed.jar" />
-    </item>
-    <item
-        jar="/Users/oscarfuentes/Documents/Linux_trabajo/Android/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="c6d79137693d494dee16372d3921f919eb724ced">
-        <dex dex="/Users/oscarfuentes/Documents/Linux_trabajo/Android/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-b794e7192c98018cae732ec1e34649b6532732a4.jar" />
-    </item>
-    <item
-        jar="/Users/oscarfuentes/Documents/Linux_trabajo/Android/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/libs/internal_impl-22.0.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="def3eff2b7b4774d96ae15b07b3fc0111edbfe24">
-        <dex dex="/Users/oscarfuentes/Documents/Linux_trabajo/Android/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-a33ee2f6fa000b879d7364ba3e3e23ba3e0beab8.jar" />
-    </item>
-    <item
-        jar="/Users/oscarfuentes/Documents/Linux_trabajo/Android/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.0.0/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
-        <dex dex="/Users/oscarfuentes/Documents/Linux_trabajo/Android/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-7e0743f803801d1097eaba110a36faf8d3c0e7d8.jar" />
-    </item>
-    <item
-        jar="/Users/oscarfuentes/Documents/Linux_trabajo/Android/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
-        <dex dex="/Users/oscarfuentes/Documents/Linux_trabajo/Android/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-c8751c4c5236dca1d5280487edc1377564caf997.jar" />
+        sha1="f4d7a07120e76988f3a15403838d323c2400db83">
+        <dex dex="/Users/oscarfuentes/Documents/Linux_trabajo/Android/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_f355fc392837fede39c95eab8c50da638c4761bd.jar" />
     </item>
 
 </items>
